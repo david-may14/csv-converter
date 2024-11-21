@@ -1,9 +1,15 @@
+
+
 # Ignore build output
+
+
 target/
 build/
 
 # Include src folder
 !src/
+!src/**
+
 
 # IntelliJ IDEA
 .idea/
